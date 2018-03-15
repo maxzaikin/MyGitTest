@@ -23,7 +23,11 @@ namespace MyGitTest
         public MainWindow()
         {
             var a = 1;
+<<<<<<< HEAD
             a = 51;
+=======
+            a = 2;
+>>>>>>> branch2
             InitializeComponent();
         }
     }
