@@ -22,6 +22,7 @@ namespace MyGitTest
     {
         public MainWindow()
         {
+            var a = 1;
             InitializeComponent();
         }
     }
